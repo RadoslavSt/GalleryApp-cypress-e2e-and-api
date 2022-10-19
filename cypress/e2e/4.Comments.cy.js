@@ -70,17 +70,18 @@ describe("Comments test e2e and APi", () => {
     cy.contains("Submit").click();
   });
 
-  it.only("Get Api comment on my gallery and deleted someone commnet posted on my gallery", () => {
-    cy.intercept(
-      "GET",
-      "https://gallery-api.vivifyideas.com/api/galleries/750",
-      { fixture: "myGallComment.json" }
-    ); //jednostavno sam u fix izmenjao tudje podatke sa mojim, i onda sam mogao da obrisem tudji komentar kao moj
-    cy.get(".cell h2").eq(1).click();
-    cy.get('[class="fas fa-trash"]').click(); //ovde brisem tudji komentar kao svoj
+  // it("Get Api comment on my gallery and deleted someone commnet posted on my gallery", () => {
+  //   cy.intercept(
+  //     "GET",
+  //     "https://gallery-api.vivifyideas.com/api/galleries/750",
+  //     { fixture: "myGallComment.json" }
+  //   ); //jednostavno sam u fix izmenjao tudje podatke sa mojim, i onda sam mogao da obrisem tudji komentar kao moj
+  //   cy.get(".cell h2").eq(1).click();
+  //   cy.get('[class="fas fa-trash"]').click(); //ovde brisem tudji komentar kao svoj
 
-    //ovaj test ce verovatno pasti jer vise nema ovog komentara ,ali je jako zanimljiv postupak
-    //1. u fixturu sam napravio file sa responsivom
-    //2.umesto tudjih stavio sam svoje podatke
-  });
+  //   //ovaj test ce verovatno pasti jer vise nema ovog komentara ,ali je jako zanimljiv postupak
+  //   //1. u fixturu sam napravio file sa responsivom
+  //   //2.umesto tudjih stavio sam svoje podatke
+  //   //3. ako bih zeleo da ponovim ,da obrisem necije komentare ,morao bih novi responsive da kopiram u fixture fajl
+  // });
 });
