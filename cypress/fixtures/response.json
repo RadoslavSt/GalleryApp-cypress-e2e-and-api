@@ -1,0 +1,314 @@
+{
+  "galleries": [
+    {
+      "id": 705,
+      "title": "Gallery with two picture",
+      "description": "Here is a two picture created",
+      "user_id": 306,
+      "created_at": "2022-10-13 12:47:47",
+      "updated_at": "2022-10-13 12:47:47",
+      "user": {
+        "id": 306,
+        "first_name": "BobaTest",
+        "last_name": "LTest",
+        "email": "bobaTest@gmail.com",
+        "terms_and_conditions": 1,
+        "created_at": "2022-10-05 11:58:02",
+        "updated_at": "2022-10-05 11:58:02"
+      },
+      "images": [
+        {
+          "id": 1368,
+          "image_url": "https://i.etsystatic.com/31255043/r/il/7ecd21/3372310746/il_fullxfull.3372310746_cqsg.jpg",
+          "gallery_id": 705,
+          "created_at": "2022-10-13 12:47:47",
+          "updated_at": "2022-10-13 12:47:47"
+        },
+        {
+          "id": 1369,
+          "image_url": "https://freesvgplanet.com/wp-content/uploads/2019/10/pokemon-svg-free-30195-758x505.jpg",
+          "gallery_id": 705,
+          "created_at": "2022-10-13 12:47:47",
+          "updated_at": "2022-10-13 12:47:47"
+        }
+      ]
+    },
+    {
+      "id": 704,
+      "title": "slika 1 naslov",
+      "description": "This is picture 1 description",
+      "user_id": 306,
+      "created_at": "2022-10-13 12:29:33",
+      "updated_at": "2022-10-13 12:29:33",
+      "user": {
+        "id": 306,
+        "first_name": "BobaTest",
+        "last_name": "LTest",
+        "email": "bobaTest@gmail.com",
+        "terms_and_conditions": 1,
+        "created_at": "2022-10-05 11:58:02",
+        "updated_at": "2022-10-05 11:58:02"
+      },
+      "images": [
+        {
+          "id": 1367,
+          "image_url": "https://freesvgplanet.com/wp-content/uploads/2019/10/pokemon-svg-free-30195-758x505.jpg",
+          "gallery_id": 704,
+          "created_at": "2022-10-13 12:29:33",
+          "updated_at": "2022-10-13 12:29:33"
+        }
+      ]
+    },
+    {
+      "id": 703,
+      "title": "slika 1 naslov",
+      "description": "This is picture 1 description",
+      "user_id": 306,
+      "created_at": "2022-10-13 12:28:51",
+      "updated_at": "2022-10-13 12:28:51",
+      "user": {
+        "id": 306,
+        "first_name": "BobaTest",
+        "last_name": "LTest",
+        "email": "bobaTest@gmail.com",
+        "terms_and_conditions": 1,
+        "created_at": "2022-10-05 11:58:02",
+        "updated_at": "2022-10-05 11:58:02"
+      },
+      "images": [
+        {
+          "id": 1366,
+          "image_url": "https://freesvgplanet.com/wp-content/uploads/2019/10/pokemon-svg-free-30195-758x505.jpg",
+          "gallery_id": 703,
+          "created_at": "2022-10-13 12:28:51",
+          "updated_at": "2022-10-13 12:28:51"
+        }
+      ]
+    },
+    {
+      "id": 702,
+      "title": "Kristian",
+      "description": "Sun bear",
+      "user_id": 101,
+      "created_at": "2022-10-13 12:17:22",
+      "updated_at": "2022-10-13 12:17:22",
+      "user": {
+        "id": 101,
+        "first_name": "japan",
+        "last_name": "japan",
+        "email": "japan2@gmai.com",
+        "terms_and_conditions": 1,
+        "created_at": "2022-09-29 14:25:36",
+        "updated_at": "2022-09-29 14:25:36"
+      },
+      "images": [
+        {
+          "id": 1365,
+          "image_url": "https://cdn.openai.com/research-covers/jukebox/2x-no-mark.jpg",
+          "gallery_id": 702,
+          "created_at": "2022-10-13 12:17:22",
+          "updated_at": "2022-10-13 12:17:22"
+        }
+      ]
+    },
+    {
+      "id": 701,
+      "title": "Hollie",
+      "description": "Sun bear",
+      "user_id": 101,
+      "created_at": "2022-10-13 12:15:29",
+      "updated_at": "2022-10-13 12:15:29",
+      "user": {
+        "id": 101,
+        "first_name": "japan",
+        "last_name": "japan",
+        "email": "japan2@gmai.com",
+        "terms_and_conditions": 1,
+        "created_at": "2022-09-29 14:25:36",
+        "updated_at": "2022-09-29 14:25:36"
+      },
+      "images": [
+        {
+          "id": 1364,
+          "image_url": "https://cdn.openai.com/research-covers/jukebox/2x-no-mark.jpg",
+          "gallery_id": 701,
+          "created_at": "2022-10-13 12:15:29",
+          "updated_at": "2022-10-13 12:15:29"
+        }
+      ]
+    },
+    {
+      "id": 700,
+      "title": "Emile",
+      "description": "Sun bear",
+      "user_id": 101,
+      "created_at": "2022-10-13 11:38:27",
+      "updated_at": "2022-10-13 11:38:27",
+      "user": {
+        "id": 101,
+        "first_name": "japan",
+        "last_name": "japan",
+        "email": "japan2@gmai.com",
+        "terms_and_conditions": 1,
+        "created_at": "2022-09-29 14:25:36",
+        "updated_at": "2022-09-29 14:25:36"
+      },
+      "images": [
+        {
+          "id": 1363,
+          "image_url": "https://cdn.openai.com/research-covers/jukebox/2x-no-mark.jpg",
+          "gallery_id": 700,
+          "created_at": "2022-10-13 11:38:27",
+          "updated_at": "2022-10-13 11:38:27"
+        }
+      ]
+    },
+    {
+      "id": 699,
+      "title": "slika 1 naslov",
+      "description": "This is picture 1 description",
+      "user_id": 306,
+      "created_at": "2022-10-13 10:55:51",
+      "updated_at": "2022-10-13 10:55:51",
+      "user": {
+        "id": 306,
+        "first_name": "BobaTest",
+        "last_name": "LTest",
+        "email": "bobaTest@gmail.com",
+        "terms_and_conditions": 1,
+        "created_at": "2022-10-05 11:58:02",
+        "updated_at": "2022-10-05 11:58:02"
+      },
+      "images": [
+        {
+          "id": 1362,
+          "image_url": "https://freesvgplanet.com/wp-content/uploads/2019/10/pokemon-svg-free-30195-758x505.jpg",
+          "gallery_id": 699,
+          "created_at": "2022-10-13 10:55:51",
+          "updated_at": "2022-10-13 10:55:51"
+        }
+      ]
+    },
+    {
+      "id": 667,
+      "title": "INTER",
+      "description": null,
+      "user_id": 547,
+      "created_at": "2022-10-12 19:37:51",
+      "updated_at": "2022-10-12 19:37:51",
+      "user": {
+        "id": 547,
+        "first_name": "frend",
+        "last_name": "frend",
+        "email": "frend@frend.com",
+        "terms_and_conditions": 1,
+        "created_at": "2022-10-12 17:32:47",
+        "updated_at": "2022-10-12 17:32:47"
+      },
+      "images": [
+        {
+          "id": 1324,
+          "image_url": "https://pbs.twimg.com/profile_images/1633945675/120px-Inter_Milan_logo_400x400.png",
+          "gallery_id": 667,
+          "created_at": "2022-10-12 19:37:51",
+          "updated_at": "2022-10-12 19:37:51"
+        },
+        {
+          "id": 1325,
+          "image_url": "https://imageio.forbes.com/i-forbesimg/media/lists/teams/inter-milan_416x416.jpg?format=jpg",
+          "gallery_id": 667,
+          "created_at": "2022-10-12 19:37:51",
+          "updated_at": "2022-10-12 19:37:51"
+        },
+        {
+          "id": 1326,
+          "image_url": "https://www.leagueteamupdates.com/wp-content/uploads/2017/10/Inter-Milan-Football-Team.jpg",
+          "gallery_id": 667,
+          "created_at": "2022-10-12 19:37:51",
+          "updated_at": "2022-10-12 19:37:51"
+        }
+      ]
+    },
+    {
+      "id": 666,
+      "title": "INTER",
+      "description": null,
+      "user_id": 547,
+      "created_at": "2022-10-12 19:30:57",
+      "updated_at": "2022-10-12 19:30:57",
+      "user": {
+        "id": 547,
+        "first_name": "frend",
+        "last_name": "frend",
+        "email": "frend@frend.com",
+        "terms_and_conditions": 1,
+        "created_at": "2022-10-12 17:32:47",
+        "updated_at": "2022-10-12 17:32:47"
+      },
+      "images": [
+        {
+          "id": 1321,
+          "image_url": "https://pbs.twimg.com/profile_images/1633945675/120px-Inter_Milan_logo_400x400.png",
+          "gallery_id": 666,
+          "created_at": "2022-10-12 19:30:57",
+          "updated_at": "2022-10-12 19:30:57"
+        },
+        {
+          "id": 1322,
+          "image_url": "https://imageio.forbes.com/i-forbesimg/media/lists/teams/inter-milan_416x416.jpg?format=jpg",
+          "gallery_id": 666,
+          "created_at": "2022-10-12 19:30:57",
+          "updated_at": "2022-10-12 19:30:57"
+        },
+        {
+          "id": 1323,
+          "image_url": "https://www.leagueteamupdates.com/wp-content/uploads/2017/10/Inter-Milan-Football-Team.jpg",
+          "gallery_id": 666,
+          "created_at": "2022-10-12 19:30:57",
+          "updated_at": "2022-10-12 19:30:57"
+        }
+      ]
+    },
+    {
+      "id": 665,
+      "title": "INTER",
+      "description": null,
+      "user_id": 547,
+      "created_at": "2022-10-12 19:30:55",
+      "updated_at": "2022-10-12 19:30:55",
+      "user": {
+        "id": 547,
+        "first_name": "frend",
+        "last_name": "frend",
+        "email": "frend@frend.com",
+        "terms_and_conditions": 1,
+        "created_at": "2022-10-12 17:32:47",
+        "updated_at": "2022-10-12 17:32:47"
+      },
+      "images": [
+        {
+          "id": 1318,
+          "image_url": "https://pbs.twimg.com/profile_images/1633945675/120px-Inter_Milan_logo_400x400.png",
+          "gallery_id": 665,
+          "created_at": "2022-10-12 19:30:55",
+          "updated_at": "2022-10-12 19:30:55"
+        },
+        {
+          "id": 1319,
+          "image_url": "https://imageio.forbes.com/i-forbesimg/media/lists/teams/inter-milan_416x416.jpg?format=jpg",
+          "gallery_id": 665,
+          "created_at": "2022-10-12 19:30:55",
+          "updated_at": "2022-10-12 19:30:55"
+        },
+        {
+          "id": 1320,
+          "image_url": "https://www.leagueteamupdates.com/wp-content/uploads/2017/10/Inter-Milan-Football-Team.jpg",
+          "gallery_id": 665,
+          "created_at": "2022-10-12 19:30:55",
+          "updated_at": "2022-10-12 19:30:55"
+        }
+      ]
+    }
+  ],
+  "count": 425
+}

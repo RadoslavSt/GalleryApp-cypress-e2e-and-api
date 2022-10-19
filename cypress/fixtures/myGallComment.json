@@ -1,0 +1,52 @@
+{
+  "id": 750,
+  "title": "Gallery with two picture",
+  "description": "Here is a two picture created",
+  "user_id": 306,
+  "created_at": "2022-10-17 09:50:00",
+  "updated_at": "2022-10-17 09:50:00",
+  "user": {
+    "id": 306,
+    "first_name": "BobaTest",
+    "last_name": "LTest",
+    "email": "bobaTest@gmail.com",
+    "terms_and_conditions": 1,
+    "created_at": "2022-10-05 11:58:02",
+    "updated_at": "2022-10-05 11:58:02"
+  },
+  "images": [
+    {
+      "id": 1463,
+      "image_url": "https://i.etsystatic.com/31255043/r/il/7ecd21/3372310746/il_fullxfull.3372310746_cqsg.jpg",
+      "gallery_id": 750,
+      "created_at": "2022-10-17 09:50:00",
+      "updated_at": "2022-10-17 09:50:00"
+    },
+    {
+      "id": 1464,
+      "image_url": "https://freesvgplanet.com/wp-content/uploads/2019/10/pokemon-svg-free-30195-758x505.jpg",
+      "gallery_id": 750,
+      "created_at": "2022-10-17 09:50:00",
+      "updated_at": "2022-10-17 09:50:00"
+    }
+  ],
+  "comments": [
+    {
+      "id": 344,
+      "body": "Pokemons are beautifull",
+      "user_id": 306,
+      "gallery_id": 750,
+      "created_at": "2022-10-18 10:01:06",
+      "updated_at": "2022-10-18 10:01:06",
+      "user": {
+        "id": 306,                                                        
+        "first_name": "BobaTest",
+        "last_name": "LTest",
+        "email": "bobaTest@gmail.com",
+        "terms_and_conditions": 1,
+        "created_at": "2022-10-18 09:43:12",
+        "updated_at": "2022-10-18 09:43:12"
+      }
+    }
+  ]
+}

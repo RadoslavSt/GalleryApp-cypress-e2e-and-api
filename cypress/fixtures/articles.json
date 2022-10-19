@@ -1,0 +1,265 @@
+{
+  "galleries": [
+    {
+      "id": 243,
+      "title": "Slika 1",
+      "description": "Spectacled bear",
+      "user_id": 101,
+      "created_at": "2022-10-05 20:34:09",
+      "updated_at": "2022-10-05 20:34:09",
+      "user": {
+        "id": 101,
+        "first_name": "japan",
+        "last_name": "japan",
+        "email": "japan2@gmai.com",
+        "terms_and_conditions": 1,
+        "created_at": "2022-09-29 14:25:36",
+        "updated_at": "2022-09-29 14:25:36"
+      },
+      "images": [
+        {
+          "id": 485,
+          "image_url": "https://cdn.openai.com/research-covers/jukebox/2x-no-mark.jpg",
+          "gallery_id": 243,
+          "created_at": "2022-10-05 20:34:09",
+          "updated_at": "2022-10-05 20:34:09"
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "title": "Slika 2",
+      "description": "Serengeti",
+      "user_id": 60,
+      "created_at": "2022-10-05 20:22:17",
+      "updated_at": "2022-10-05 20:22:17",
+      "user": {
+        "id": 60,
+        "first_name": "kikot",
+        "last_name": "kikot",
+        "email": "kikot@gmail.com",
+        "terms_and_conditions": 1,
+        "created_at": "2022-09-25 17:42:03",
+        "updated_at": "2022-09-25 17:42:03"
+      },
+      "images": [
+        {
+          "id": 484,
+          "image_url": "https://rs.n1info.com/wp-content/uploads/2022/07/27/1658918305-shutterstock_1714925083-750x514.jpg",
+          "gallery_id": 242,
+          "created_at": "2022-10-05 20:22:17",
+          "updated_at": "2022-10-05 20:22:17"
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "title": "Slika 3",
+      "description": "Persian",
+      "user_id": 60,
+      "created_at": "2022-10-05 20:12:40",
+      "updated_at": "2022-10-05 20:12:40",
+      "user": {
+        "id": 60,
+        "first_name": "kikot",
+        "last_name": "kikot",
+        "email": "kikot@gmail.com",
+        "terms_and_conditions": 1,
+        "created_at": "2022-09-25 17:42:03",
+        "updated_at": "2022-09-25 17:42:03"
+      },
+      "images": [
+        {
+          "id": 483,
+          "image_url": "https://media.npr.org/assets/img/2021/08/11/gettyimages-1279899488_wide-f3860ceb0ef19643c335cb34df3fa1de166e2761-s1100-c50.jpg",
+          "gallery_id": 241,
+          "created_at": "2022-10-05 20:12:40",
+          "updated_at": "2022-10-05 20:12:40"
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "title": "Slika 4",
+      "description": "Persian",
+      "user_id": 60,
+      "created_at": "2022-10-05 20:12:18",
+      "updated_at": "2022-10-05 20:12:18",
+      "user": {
+        "id": 60,
+        "first_name": "kikot",
+        "last_name": "kikot",
+        "email": "kikot@gmail.com",
+        "terms_and_conditions": 1,
+        "created_at": "2022-09-25 17:42:03",
+        "updated_at": "2022-09-25 17:42:03"
+      },
+      "images": [
+        {
+          "id": 482,
+          "image_url": "https://media.npr.org/assets/img/2021/08/11/gettyimages-1279899488_wide-f3860ceb0ef19643c335cb34df3fa1de166e2761-s1100-c50.jpg",
+          "gallery_id": 240,
+          "created_at": "2022-10-05 20:12:18",
+          "updated_at": "2022-10-05 20:12:18"
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "title": "Slika 5",
+      "description": "fgfdgfd",
+      "user_id": 60,
+      "created_at": "2022-10-05 20:08:01",
+      "updated_at": "2022-10-05 20:08:01",
+      "user": {
+        "id": 60,
+        "first_name": "kikot",
+        "last_name": "kikot",
+        "email": "kikot@gmail.com",
+        "terms_and_conditions": 1,
+        "created_at": "2022-09-25 17:42:03",
+        "updated_at": "2022-09-25 17:42:03"
+      },
+      "images": [
+        {
+          "id": 481,
+          "image_url": "https://ichef.bbci.co.uk/news/640/cpsprodpb/122EE/production/_110487447_p07ryyyj.jpg",
+          "gallery_id": 239,
+          "created_at": "2022-10-05 20:08:01",
+          "updated_at": "2022-10-05 20:08:01"
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "title": "Nedra",
+      "description": "American Wirehair",
+      "user_id": 60,
+      "created_at": "2022-10-05 19:41:03",
+      "updated_at": "2022-10-05 19:41:03",
+      "user": {
+        "id": 60,
+        "first_name": "kikot",
+        "last_name": "kikot",
+        "email": "kikot@gmail.com",
+        "terms_and_conditions": 1,
+        "created_at": "2022-09-25 17:42:03",
+        "updated_at": "2022-09-25 17:42:03"
+      },
+      "images": [
+        {
+          "id": 480,
+          "image_url": "https://media.npr.org/assets/img/2021/08/11/gettyimages-1279899488_wide-f3860ceb0ef19643c335cb34df3fa1de166e2761-s1100-c50.jpg",
+          "gallery_id": 238,
+          "created_at": "2022-10-05 19:41:03",
+          "updated_at": "2022-10-05 19:41:03"
+        }
+      ]
+    },
+    {
+      "id": 235,
+      "title": "Forward Program Facilitator",
+      "description": "morph extensible e-markets",
+      "user_id": 4,
+      "created_at": "2022-10-05 18:26:00",
+      "updated_at": "2022-10-05 18:26:00",
+      "user": {
+        "id": 4,
+        "first_name": "Darinka",
+        "last_name": "Ninic",
+        "email": "ndaca89@gmail.com",
+        "terms_and_conditions": 1,
+        "created_at": "2022-09-12 17:39:45",
+        "updated_at": "2022-09-12 17:39:45"
+      },
+      "images": [
+        {
+          "id": 463,
+          "image_url": "https://https://picsum.photos/id/1/5616/3744.jpg",
+          "gallery_id": 235,
+          "created_at": "2022-10-05 18:26:00",
+          "updated_at": "2022-10-05 18:26:00"
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "title": "title",
+      "description": null,
+      "user_id": 4,
+      "created_at": "2022-10-05 18:06:45",
+      "updated_at": "2022-10-05 18:07:14",
+      "user": {
+        "id": 4,
+        "first_name": "Darinka",
+        "last_name": "Ninic",
+        "email": "ndaca89@gmail.com",
+        "terms_and_conditions": 1,
+        "created_at": "2022-09-12 17:39:45",
+        "updated_at": "2022-09-12 17:39:45"
+      },
+      "images": [
+        {
+          "id": 461,
+          "image_url": "https://picsum.photos/id/1/5616/3744.jpg",
+          "gallery_id": 233,
+          "created_at": "2022-10-05 18:07:46",
+          "updated_at": "2022-10-05 18:07:46"
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "title": "This is my new API title",
+      "description": "This is APi",
+      "user_id": 129,
+      "created_at": "2022-10-04 12:55:49",
+      "updated_at": "2022-10-04 12:55:49",
+      "user": {
+        "id": 129,
+        "first_name": "boba",
+        "last_name": "boba2",
+        "email": "bobara@gmail.com",
+        "terms_and_conditions": 1,
+        "created_at": "2022-09-30 06:53:44",
+        "updated_at": "2022-09-30 06:53:44"
+      },
+      "images": [
+        {
+          "id": 458,
+          "image_url": "https://i.etsystatic.com/31255043/r/il/7ecd21/3372310746/il_fullxfull.3372310746_cqsg.jpg",
+          "gallery_id": 232,
+          "created_at": "2022-10-04 12:55:49",
+          "updated_at": "2022-10-04 12:55:49"
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "title": "title",
+      "description": "some description",
+      "user_id": 245,
+      "created_at": "2022-10-03 16:38:36",
+      "updated_at": "2022-10-03 16:38:36",
+      "user": {
+        "id": 245,
+        "first_name": "Pera",
+        "last_name": "Peric",
+        "email": "perap@gmail.com",
+        "terms_and_conditions": 1,
+        "created_at": "2022-10-03 16:10:24",
+        "updated_at": "2022-10-03 16:10:24"
+      },
+      "images": [
+        {
+          "id": 442,
+          "image_url": "https://picsum.photos/200/300.png",
+          "gallery_id": 216,
+          "created_at": "2022-10-03 16:38:37",
+          "updated_at": "2022-10-03 16:38:37"
+        }
+      ]
+    }
+  ],
+  "count": 134
+}
